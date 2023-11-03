@@ -2,8 +2,16 @@
     display: none;
 }
 
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
 .wrap {
-    background-color: #aaa;
+    
+    background-color: #a3c0db;
     width: 250px;
     padding: 200px;
     height: 500px;
@@ -31,7 +39,7 @@
     padding-bottom: 50px;
 }
 
-.ul li {
+.ul li {  
     font-size: 20px;
     line-height: 1.4;
     font-weight: bold;
