@@ -9,11 +9,10 @@
     height: 100vh;
 }
 
-.wrap {
-    
+.wrap {    
     background-color: #a3c0db;
     width: 250px;
-    padding: 200px;
+    padding: 150px;
     height: 500px;
 }
 
@@ -44,3 +43,9 @@
     line-height: 1.4;
     font-weight: bold;
 }
+
+/* .list{
+    display: flex;
+    justify-content: center;
+    align-items: center;     
+} */
